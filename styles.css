@@ -1,0 +1,36 @@
+.col1,.col2,.col3
+{
+  height:60px;
+  width:60px;
+  margin: 10px;
+  background-color: aqua;
+  padding-top: 10px;
+}
+
+
+.row1,.row2,.row3
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}  
+
+#player-info
+{
+  margin-bottom: 30px;
+}
+
+.game-board
+{
+  text-align: center;
+}
+
+.game-button
+{
+  margin-top: 20px;
+}
+
+
+
+
+
